@@ -1,0 +1,104 @@
+* {
+	font-size: 12pt;
+	font-family: "Verdana", "Geneva", sans-serif;
+}
+body {
+	background-color: white;
+	padding-left: 1em;
+}
+#banner-area {
+	margin-bottom: 2em;
+}
+a {
+	color: #F44;
+	text-decoration: none;
+}
+
+a img {
+	border: none;
+}
+
+.forms {
+	overflow: hidden;
+	width: 35em;
+}
+
+div {
+	overflow: hidden;
+}
+
+fieldset {
+	background-color: #E0E0FF;
+	border: 2px outset gray;
+	border-radius: 10px;
+}
+
+fieldset strong {
+	float: left;
+	width: 11em;
+}
+
+
+fieldset .column {
+	float: left;
+	width: 11em;
+}
+
+#w3c {
+	clear: both;
+}
+
+
+h1 {
+	margin-top: 0em;
+}
+
+fieldset label.left {
+	float: left;
+	width: 11em;
+}
+
+ul {
+	list-style-type: none;
+	padding-left: 1em;
+}
+
+ul strong {
+	float: left;
+	width: 11em;
+}
+
+ul li a img {
+	vertical-align: middle;
+}
+
+input[type="submit"] {
+	background-color: #FAA;
+	font-size: 120%;
+	font-weight: bold;
+}
+
+.match {
+	margin-bottom: 1em;
+}
+
+.match img {
+	padding-top: 1em;
+	width: 150px;
+	float: left;
+	margin-bottom: 3em;
+}
+
+
+.match p {
+	background-color: #E0E0FF;
+	clear: left;
+}
+
+legend {
+	background-color: white;
+	border: 2px outset gray;
+	padding: 0.2em;
+}
+
+
